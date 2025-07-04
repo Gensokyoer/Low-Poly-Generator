@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+*.env
+*.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pyvenv.cfg
+
+# IDE config
+.idea/
+
+# VSCode config (if you use it)
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Test or experiment data
+test/
+Library/
+Lib/
+share/
+Scripts/
+
+
+# Python profiler, coverage and packaging
+*.prof
+*.coverage
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Backup files
+*~
+
+# (Optional) compiled Cython or binary extension modules
+*.so
+*.pyd
+*.dll
